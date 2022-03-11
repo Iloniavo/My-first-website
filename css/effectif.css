@@ -1,0 +1,176 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    border-bottom: 2px solid black;
+    background-color:black;
+}
+#adidas{
+    width: 100px;
+    height: 80px;
+    margin-left: 550px;
+    margin-top: 20px ;
+    margin-bottom: 10px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #6f6f6f;
+    border-top: 5px solid #6f6f6f; 
+    padding-bottom: 20px;
+    padding-top: 15px;
+    margin-bottom: 60px;
+    background-color: white;
+
+
+   }
+nav ul{
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 65px;
+    margin-right: -50px;
+}
+#log{
+    border-radius: 50%;
+     margin-left: -0px;
+     margin-top: 2px;
+     margin-bottom: 2px;
+     margin-right: 20px;
+     width: 200px;
+     height: 200px;
+}
+nav h1{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: -50px;
+    margin-top: 75px;
+}
+nav>ul{
+    text-align: center;
+   
+}
+
+
+a{
+
+    color: black;
+     ;
+
+    
+}
+nav>ul>li {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav>ul>li :hover{
+    
+    padding: 15px;
+    text-transform: uppercase;
+    background-color: whitesmoke;
+    
+   
+}
+footer{
+    margin-top: 50px;
+    border-top: #6f6f6f;
+    background-color:rgb(236, 234, 234) ;
+    padding: 30px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.vente{
+    margin-left: 100px;
+    font-size: 25px;
+   
+}
+footer .services{
+    margin-top: -10px;
+    display: flex;
+    
+
+}
+.img{
+    display: flex;
+    flex-direction: row;
+}
+#img{
+    width: 300px;
+    height: 325px;
+}
+footer h2{
+    font-size: 30px;
+    margin-left: 100px;
+    
+}
+.taille{
+   margin-left: 120px;
+   margin-top : 20px;
+   font-size: 22.5px;
+}
+footer .services .serv{
+    margin-right: 30px;
+ 
+
+}
+.servi{
+    margin-top: 65px;
+}
+section{
+    display: flex;
+    margin-left: 170px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    background-image: linear-gradient(to right , rgb(235, 235, 235) , white );
+}
+section>div{
+    
+    border: 1px solid black;
+    padding: 0 30px;
+    background-image: linear-gradient(to left,);
+}
+section p{
+    text-align: center;
+    
+}
+.rma{
+    text-align: center;
+}
+.num{
+    justify-content: center;
+    margin-left: 4px;
+    justify-content: center;
+  
+}
+.num p{
+    color: rgb(165, 151, 69);
+}
+
+.nom{
+    justify-content: center;
+    
+}
+#nom{
+    margin-left: 25.5px;
+}
+.poste{
+    justify-content: center;
+}
+#poste{
+    margin-left: 20px;
+}
+.age p{
+   color: rgb(28, 28, 139);
+}
+.entrain{
+    margin-left: 225px;
+}
+
