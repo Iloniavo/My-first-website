@@ -15,10 +15,10 @@
         <img src="pictures/logo.jpg" alt="" id="log">
         <h1 >Real Madrid</h1>
         <ul>
-            <li><a href="rma.html">A la une</a> </li>
-            <li><a href="effectif.html">Effectif</a></li>
-            <li><a href="apropos.html">A propos du club</a></li>
-            <li><a href="palmares.html">Palmarès</a></li>
+            <li><a href="index.php">A la une</a> </li>
+            <li><a href="effectif.php">Effectif</a></li>
+            <li><a href="apropos.php">A propos du club</a></li>
+            <li><a href="palmares.php">Palmarès</a></li>
         </ul>
         
     </nav>
