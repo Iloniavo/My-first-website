@@ -77,7 +77,7 @@
             <div class="image"><img src="pictures/mejor-club-del-siglo-XX.jpg" alt="" id="image"></div>
             <div class="nbtitre" id="cdm">1</div>
             <div class="date">
-                <h2 >TROPHEE FIFA DU MEILLEUR CLUB DU XXE SIECLE</h2>
+                <h2 >TROPHEE FIFA DU MEILLEUR CLUB DU XXe SIECLE</h2>
             </div>
 
         </div>
