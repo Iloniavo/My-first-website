@@ -34,7 +34,7 @@
     <div class="ligne2">
         <div> <img src="pictures/mbappe.jpg" alt="" id="pictwo"></div>
         <div class="p2">
-            <h3>Kylian Mbappé au Real ?</h3>
+            <h3>Kylian Mbappé au Real Madrid?</h3>
              <p>Selon plusieurs rumeurs, l'attaquant parisien aurait été contacté par la casablanca et pourrait rejoindre le club à la fin de son contrat avec le Paris Saint-Germain.</p></div>
         
     </div>
